@@ -1,2 +1,1 @@
-# MyAlgorithm
-Algorithm
+## 알고리즘
