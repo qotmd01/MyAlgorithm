@@ -1,5 +1,5 @@
 /*
-https://velog.io/@qotmd01/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%88%98%EC%97%B4%EC%9D%98-%EB%B9%A0%EB%A5%B8-%ED%95%A9
+https://velog.io/@qotmd01/알고리즘-수열의-빠른-합
 */
 
 int fastSum(int n){
